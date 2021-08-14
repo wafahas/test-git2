@@ -1,0 +1,18 @@
+<html>
+    <head><title>Javascript course</title>
+  
+    </head>
+    <body>
+        <h2>where to write Javascript code</h2>
+        <p id="demo" >In a tag called java script</p>
+         
+        <script>
+      
+           var d= new Date(2021,11,24,10,33,30,0);
+            document.getElementById("demo").innerHTML=d;
+        </script>
+        
+      
+          
+    </body>
+</html>
